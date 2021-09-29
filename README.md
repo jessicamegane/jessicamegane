@@ -2,11 +2,13 @@
 
 👩‍🎓 I am a recent master in Intelligent Systems.
 
-📖 My main research interest at the moment is Evolutionary Computation.
+📖 I'm a researcher at [CISUC](https://www.cisuc.uc.pt/en) being my main research interest Evolutionary Computation.
 
-📝 During my master's I developed Probabilistic Grammatical Evolution, a variant of the Grammatical Evolution, which is published [here](https://arxiv.org/abs/2103.08389) and with code available [here](https://github.com/jessicamegane/pge).
+📝 During my master's I developed Probabilistic Grammatical Evolution, a variant of [Grammatical Evolution](https://www.springer.com/gp/book/9781402074448), which is published [here](https://arxiv.org/abs/2103.08389) and with code available [here](https://github.com/jessicamegane/pge).
 
 💭 I plan to apply to the PhD program at the University of Coimbra.
+
+
 
 <!--
 **jessicamegane/jessicamegane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
