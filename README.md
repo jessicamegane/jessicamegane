@@ -1,11 +1,8 @@
 # Hello, I'm Jessica Mégane 👋
 
-👩‍🎓 I am a recent master in Intelligent Systems. During my master's I developed Probabilistic Grammatical Evolution, a variant of [Grammatical Evolution](https://www.springer.com/gp/book/9781402074448), which is published [here](https://arxiv.org/abs/2103.08389) and with code available [here](https://github.com/jessicamegane/pge).
+👩‍🎓 I am a PhD student at the University of Coimbra. During my master's I developed Probabilistic Grammatical Evolution, a variant of [Grammatical Evolution](https://www.springer.com/gp/book/9781402074448), which is published [here](https://arxiv.org/abs/2103.08389) and with code available [here](https://github.com/jessicamegane/pge).
 
 📖 I am a researcher at [CISUC](https://www.cisuc.uc.pt/en) being my main research interest Evolutionary Computation.
-
-💭 I plan to apply to the PhD program at the University of Coimbra.
-
 
 
 <!--
