@@ -1,8 +1,8 @@
 # Hello, I'm Jessica Mégane 👋
 
-👩‍🎓 I am a PhD student at the University of Coimbra, and I am a researcher at the [Evolutionary and Complex Systems](https://twitter.com/ecoscisuc) group at [CISUC](https://www.cisuc.uc.pt/en) being my main research interest Evolutionary Computation.
+I am a PhD student at the University of Coimbra, and I am a researcher at the [Evolutionary and Complex Systems](https://twitter.com/ecoscisuc) group at [CISUC](https://www.cisuc.uc.pt/en) being my main research interest Evolutionary Computation.
 
-💬 I developed some probabilistic variants of [Grammatical Evolution](https://www.springer.com/gp/book/9781402074448), which source code and papers can be found in my profile. These are my current-published papers:
+I developed some probabilistic variants of [Grammatical Evolution](https://www.springer.com/gp/book/9781402074448), which source code and papers can be found in my profile. These are my current-published papers:
 
 - 📄 Jessica Mégane, Nuno Lourenço, Penousal Machado, [Probabilistic Grammatical Evolution](https://link.springer.com/chapter/10.1007/978-3-030-72812-0_13), EuroGP 2021, [code](https://github.com/jessicamegane/pge)
   
